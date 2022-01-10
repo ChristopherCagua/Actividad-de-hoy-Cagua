@@ -1,0 +1,12 @@
+C:\Users\16car\source\repos\TalentoHumano\BibliotecaDatos\bin\Debug\BibliotecaDatos.dll
+C:\Users\16car\source\repos\TalentoHumano\BibliotecaDatos\bin\Debug\BibliotecaDatos.pdb
+C:\Users\16car\source\repos\TalentoHumano\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.AssemblyReference.cache
+C:\Users\16car\source\repos\TalentoHumano\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.CoreCompileInputs.cache
+C:\Users\16car\source\repos\TalentoHumano\BibliotecaDatos\obj\Debug\BibliotecaDatos.dll
+C:\Users\16car\source\repos\TalentoHumano\BibliotecaDatos\obj\Debug\BibliotecaDatos.pdb
+C:\Users\PC\Desktop\TalentoHumano\BibliotecaDatos\bin\Debug\BibliotecaDatos.dll
+C:\Users\PC\Desktop\TalentoHumano\BibliotecaDatos\bin\Debug\BibliotecaDatos.pdb
+C:\Users\PC\Desktop\TalentoHumano\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TalentoHumano\BibliotecaDatos\obj\Debug\BibliotecaDatos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TalentoHumano\BibliotecaDatos\obj\Debug\BibliotecaDatos.dll
+C:\Users\PC\Desktop\TalentoHumano\BibliotecaDatos\obj\Debug\BibliotecaDatos.pdb

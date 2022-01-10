@@ -1,0 +1,13 @@
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\bin\Debug\IUWindowsTalentoHumano.exe.config
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\bin\Debug\IUWindowsTalentoHumano.exe
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\bin\Debug\IUWindowsTalentoHumano.pdb
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\bin\Debug\BibliotecaDatos.dll
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\bin\Debug\BibliotecaDatos.pdb
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\obj\Debug\IUWindowsTalentoHumano.csproj.AssemblyReference.cache
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\obj\Debug\IUWindowsTalentoHumano.frmGetPersonas.resources
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\obj\Debug\IUWindowsTalentoHumano.Properties.Resources.resources
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\obj\Debug\IUWindowsTalentoHumano.csproj.GenerateResource.cache
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\obj\Debug\IUWindowsTalentoHumano.csproj.CoreCompileInputs.cache
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\obj\Debug\IUWindowsTalentoHumano.csproj.CopyComplete
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\obj\Debug\IUWindowsTalentoHumano.exe
+C:\Users\16car\source\repos\TalentoHumano\IUWindowsTalentoHumano\obj\Debug\IUWindowsTalentoHumano.pdb
